@@ -1,0 +1,8 @@
+(module "PCB-20(632)F" (layer F.Cu) (tedit 60A89314)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "PCB-20(632)F" (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
